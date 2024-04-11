@@ -1,28 +1,31 @@
+# Issues
+### Issue 1: The search term is hardcoded and not user-configurable.
+### Issue 2: The code doesn't handle cases where the user input search term is less than 4 characters.
+### Issue 3: The .txt files are saved in the same directory as the script, which can lead to clutter.
+### Issue 4: The convert_to_str function could be simplified using str() and join().
 
-# Refactoring Process
-
-The code was refactored to improve functionality and user interaction. Below is a summary of the tasks undertaken during the refactoring process:
-
-### Issues and Resolutions
-
-#### Issue 1: Search Term Input
-- **Description**: The search term was hardcoded, which limited the tool's usability.
-- **Resolution**: Modified the script to allow for user input while setting a default search term if the input is less than 4 characters.
-- **Assignment**: Ameya
-#### Issue 2: Default Search Term for Short Inputs
-- **Description**: Short search terms provided by the user might not yield meaningful results.
-- **Resolution**: Implemented a default to "generative artificial intelligence" for inputs shorter than 4 characters to ensure relevant results.
-- **Assignment**: Ahmed
-
-#### Issue 3: Organization of Downloaded Files
-- **Description**: The main directory became cluttered with downloaded files.
-- **Resolution**: Created a new directory "wiki_dl" where all the text files are now saved.
-- **Assignment**: Clement
+# Solutions
+### Solution 1: Added user input functionality to prompt the user for a search term.
+### Solution 2: Implemented a condition to check the length of the user input and set the default search term if necessary.
+### Solution 3: Added code to create a new directory "wiki_dl" if it doesn't exist and store the .txt files in that directory.
+### Solution 4: Simplified the convert_to_str function using str() and join() to convert the input object to a string.
 
 
-#### Issue 4: Function Optimization
-- **Description**: The `convert_to_str` function was verbose and not optimally efficient.
-- **Resolution**: Simplified the function using list comprehension and the `join()` method to enhance conciseness and readability.
-- **Assignment**: Divya
+# Assignments
+### Issue 1,4: Ameya Kashid
+### Issue 2: Ahmed Alanazi
+### Issue 3: Clement Liao
+### Issue 4: Group Effort
 
 
+# Description
+### Issue 1: Search term was hardcoded, so we added code to let users input their own search term.  
+### Issue 2: For short search terms (less than 4 characters), we made the program use a default search term to ensure relevant results.  
+### Issue 3: To avoid cluttering the main directory, we created a new directory called "wiki_dl" to store the downloaded text files.  
+### Issue 4: We simplified the convert_to_str function using a list comprehension and the join() method, making it more concise and readable. 
+
+
+
+
+
+ 
