@@ -1,0 +1,15 @@
+http://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#exit
+http://www.bitsavers.org/pdf/digitalResearch/flexos/1073-2003_FlexOS_Users_Guide_V1.3_Nov86.pdf
+http://wiki.kolibrios.org/wiki/Shell
+http://www.symbos.de/appinfo.htm?00025
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc770929(v=ws.11)
+https://www.mathworks.com/help/matlab/ref/exit.html
+http://www.jatomes.com/Help/Os2Cmd.php#EXIT
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/exit_2
+https://www.4corn.co.uk/archive/docs/DR%20DOS%206.0%20User%20Guide-opt.pdf
+https://www.datalight.com/assets/files/ROM-DOS_Users_Guide.pdf
+https://archive.org/details/MSXDOS2
+https://web.archive.org/web/20190414130029/http://www.jatomes.com/Help/Os2Cmd.php
+https://web.archive.org/web/20180914132130/http://www.bitsavers.org/pdf/digitalResearch/flexos/1073-2003_FlexOS_Users_Guide_V1.3_Nov86.pdf
+https://web.archive.org/web/20181021232213/http://www.teamnaconsulting.com/compresources/pdfs/c01687363.pdf
+http://www.teamnaconsulting.com/compresources/pdfs/c01687363.pdf
